@@ -1,8 +1,8 @@
 # SqlServer tips
 
-A bunch of SqlServer scripts I found very usefull in my prcatice
+A bunch of SqlServer scripts I found very usefull in my practice
 
-+ [Full information about executing requests](The Ultimate Running Requests Reporter.sql)
++ [Full information about executing requests](The%20Ultimate%20Running%20Requests%20Reporter.sql)
 + [List of blocking objects](blockedObjects.sql)
 + [List of blocking objects v2](currentLocks.sql)
 + [List of active sessions](currentSessions.sql)
